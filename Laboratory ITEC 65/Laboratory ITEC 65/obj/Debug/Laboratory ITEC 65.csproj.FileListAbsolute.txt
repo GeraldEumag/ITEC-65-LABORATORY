@@ -1,0 +1,7 @@
+C:\Users\Eumag\source\repos\Laboratory ITEC 65\Laboratory ITEC 65\obj\Debug\Laboratory ITEC 65.csproj.AssemblyReference.cache
+C:\Users\Eumag\source\repos\Laboratory ITEC 65\Laboratory ITEC 65\obj\Debug\Laboratory ITEC 65.csproj.CoreCompileInputs.cache
+C:\Users\Eumag\source\repos\Laboratory ITEC 65\Laboratory ITEC 65\bin\Debug\Laboratory ITEC 65.exe.config
+C:\Users\Eumag\source\repos\Laboratory ITEC 65\Laboratory ITEC 65\bin\Debug\Laboratory ITEC 65.exe
+C:\Users\Eumag\source\repos\Laboratory ITEC 65\Laboratory ITEC 65\bin\Debug\Laboratory ITEC 65.pdb
+C:\Users\Eumag\source\repos\Laboratory ITEC 65\Laboratory ITEC 65\obj\Debug\Laboratory ITEC 65.exe
+C:\Users\Eumag\source\repos\Laboratory ITEC 65\Laboratory ITEC 65\obj\Debug\Laboratory ITEC 65.pdb
